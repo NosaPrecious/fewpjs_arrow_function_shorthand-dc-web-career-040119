@@ -1,5 +1,5 @@
 const divide= function(x,y){
-  return x /y;
+  return x / y;
 };
 
 divide(2000, 100);
